@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hola, mi nombre es Gastón
 
-<!--
-**gastongritti/gastongritti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Ingeniero Industrial orientado a la Mejora de Procesos basada en Datos.
+Actualmente me encuentro trabajando en proyectos de automatización de la recolección y análisis de datos en entornos industriales.
 
-Here are some ideas to get you started:
+#### Tecnologías que utilizo:
+- Python (Pandas, Matplotlib, NumPy)
+- MySQL
+- Microsoft Power BI
+- Microsoft Excel y Google Sheets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Estoy a disposición para colaborar en su proyecto, no dude en contactarme.**
+
+---
+#### Contacto:
+- Email: gastongritti.ing@gmail.com
+- LinkedIn: [gastongritti](https://www.linkedin.com/in/gastongritti)
