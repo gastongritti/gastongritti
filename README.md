@@ -9,6 +9,11 @@ Actualmente me encuentro trabajando en proyectos de automatización de la recole
 - Microsoft Power BI
 - Microsoft Excel y Google Sheets
 
+#### Proyectos en desarrollo:
+- [etl-lan-gdrive](https://github.com/gastongritti/etl-lan-gdrive): unificación y carga automática de archivos CSV desde red local a Google Drive.
+- [daily-machines-report](https://github.com/gastongritti/daily-machines-report): descarga de datos, análisis y envío automático por email.
+
+#### 
 **Estoy a disposición para colaborar en su proyecto, no dude en contactarme.**
 
 ---
