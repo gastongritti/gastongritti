@@ -9,7 +9,9 @@ Actualmente me encuentro trabajando en proyectos de automatización de la recole
 - Microsoft Power BI
 - Microsoft Excel y Google Sheets
 
-#### Proyectos en desarrollo:
+#### Proyectos destacados:
+- [dashboard-oee](https://github.com/gastongritti/dashboard-oee): tablero de control de KPIs para una planta industrial utilizando Power BI.
+- [sql-industrial-software](https://github.com/gastongritti/sql-industrial-software): procesamiento y análisis de DB en MySQL utilizando Pandas y Matplotlib.
 - [etl-lan-gdrive](https://github.com/gastongritti/etl-lan-gdrive): unificación y carga automática de archivos CSV desde red local a Google Drive.
 - [daily-machines-report](https://github.com/gastongritti/daily-machines-report): descarga de datos, análisis y envío automático por email.
 
